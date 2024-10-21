@@ -1,5 +1,1 @@
-/*
-!.gitignore
-!*.md
-[Nn][Pp][Cc]s/*
-![Nn][Pp][Cc]s/*.md
+/Exclude/
