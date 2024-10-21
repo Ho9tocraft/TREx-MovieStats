@@ -1,5 +1,5 @@
 /*
 !.gitignore
 !*.md
-/NPCs/*
-!/NPCs/*.md
+NPCs/*
+!NPCs/*.md
