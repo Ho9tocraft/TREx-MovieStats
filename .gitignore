@@ -1,5 +1,5 @@
 /*
 !.gitignore
 !*.md
-NPCs/*
-!NPCs/*.md
+[Nn][Pp][Cc]s/*
+![Nn][Pp][Cc]s/*.md
