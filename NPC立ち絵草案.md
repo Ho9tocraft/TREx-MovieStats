@@ -139,7 +139,7 @@
     - 口差分
     - 眉差分
     - 顔色差分
-  - [ ] 武器構え差分
+  - [ ] 武器構え差分  
     オールラウンダーであるため、「片手剣+盾(ナイト)」「両手幻具(白魔道士)」「投擲武器(踊り子)」の差分あり
     - [ディヴァインライト・バスタードソード](https://jp.finalfantasyxiv.com/lodestone/playguide/db/item/4557c74beaa/)+[ディヴァインライト・シールド](https://jp.finalfantasyxiv.com/lodestone/playguide/db/item/c4eb6b9d88d/)
     - [ディヴァインライト・タスラム](https://jp.finalfantasyxiv.com/lodestone/playguide/db/item/3dbb906104f/)
@@ -205,7 +205,7 @@
 `Highest (P7) > Higher (P6) > High (P5) > Medium (P4または無記載) > Low (P3) > Lower (P2) > Lowest (P1)`
 
 ### Lap2-4（加速同期　シンクロン・エクストリーム／残影のエクセリア）
-完成率: 1/20 (5％)  
+完成率: 2/20 (10％)  
 いずれも若干のアレンジを要する。
 * ~~メイナ・メイルシュツルム (P7)~~{作成済}
 * ジャンク・シンクロン (P1)
