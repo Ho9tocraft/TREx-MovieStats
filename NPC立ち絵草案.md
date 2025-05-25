@@ -122,14 +122,14 @@
   - [ ] 武器構え差分
 - [x] ~~スターダスト・アサルト・ウォリアー~~
 - [x] ~~スターダスト・チャージ・ウォリアー~~
-- [ ] 光に佇む淑女／ヴェーネス(FF14) (Lap2-7他)  
+- [x] 光に佇む淑女／ヴェーネス(FF14) (Lap2-7他)  
   先行して登場するため。
-  - [ ] 喜怒哀楽 (表情差分)
+  - [x] 喜怒哀楽 (表情差分)
     - 目差分
     - 口差分
     - 眉差分
     - 顔色差分
-  - [ ] 武器構え差分  
+  - [x] 武器構え差分  
     オールラウンダーであるため、「片手剣+盾(ナイト)」「両手幻具(白魔道士)」「投擲武器(踊り子)」の差分あり
     - [ディヴァインライト・バスタードソード](https://jp.finalfantasyxiv.com/lodestone/playguide/db/item/4557c74beaa/)+[ディヴァインライト・シールド](https://jp.finalfantasyxiv.com/lodestone/playguide/db/item/c4eb6b9d88d/)
     - [ディヴァインライト・タスラム](https://jp.finalfantasyxiv.com/lodestone/playguide/db/item/3dbb906104f/)
